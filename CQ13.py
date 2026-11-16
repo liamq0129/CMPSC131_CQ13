@@ -1,3 +1,4 @@
+#class
 class SavingsAccount:
     def __init__(self, account_id, balance, previous_balance, annual_interest_rate):
         self.account_id = account_id
